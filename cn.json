@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "000001",
+        "name": "最初的数字 1",
+        "type": "value-assertion",
+        "desc": "当使用此卡设置值并成功设置在【值区】时，你可以从卡组获取一张【自然数】范畴的断言",
+        "category": [
+            "自然数",
+            "断言",
+            "奇数"
+        ],
+        "author": "robzhou",
+        "formulaPic": "https://raw.githubusercontent.com/TCG-Math-Magic-Card/db/main/svg/000002.svg",
+        "pic": "https://raw.githubusercontent.com/TCG-Math-Magic-Card/db/main/pic/000002.png",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000002",
+        "name": "加法",
+        "type": "operator",
+        "desc": "当使用此卡成功设置在【算子区】时，选择场上的两张【值区】的卡，交换他们的顺序。",
+        "category": [
+            "对称",
+            "算子"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
+    },
+    {
+        "_id": "000003",
+        "name": "是偶数！",
+        "type": "assertion",
+        "desc": "当此卡设置在值区后，你可以舍弃一张【偶数】范畴的卡，之后从卡组抽一张卡",
+        "category": [
+            "断言",
+            "自然数"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    }
+]

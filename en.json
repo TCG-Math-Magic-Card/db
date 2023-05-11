@@ -1,0 +1,45 @@
+[
+    {
+        "_id": "000001",
+        "name": "Junior Number One",
+        "type": "value-assertion",
+        "desc": "When set this card in [Value Area], you can take a card with [Natural] Category from desk to your hand.",
+        "category": [
+            "Natural",
+            "Assertion",
+            "Odd"
+        ],
+        "author": "robzhou",
+        "formulaPic": "https://raw.githubusercontent.com/TCG-Math-Magic-Card/db/main/svg/000002.svg",
+        "pic": "https://raw.githubusercontent.com/TCG-Math-Magic-Card/db/main/pic/000002.png",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000002",
+        "name": "Addition",
+        "type": "operator",
+        "desc": "When this card is successfully setted in the [Operator Zone], select two cards in the [Value Zone] on the field and switch their order.",
+        "category": [
+            "Symmetry",
+            "Operator"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
+    },
+    {
+        "_id": "000003",
+        "name": "It is an even number!",
+        "type": "assertion",
+        "desc": "When this card is placed in the Assertion Zone, you can discard one card in the [Even] category and then draw one card from the deck.        ",
+        "category": [
+            "Assertion",
+            "Natural",
+            "Even"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    }
+]

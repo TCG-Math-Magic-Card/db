@@ -109,7 +109,7 @@
     },
     {
         "_id": "000009",
-        "name": "数字 六",
+        "name": "SIX",
         "type": "value-assertion",
         "desc": "When you have 6 cards in your hand, you can discard this card and then discard one card from your opponent's hand.",
         "category": [

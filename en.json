@@ -41,5 +41,31 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000004",
+        "name": "Number Zero",
+        "type": "value",
+        "desc": "Once per turn. When setting a value or entering the discard pile, you can retrieve one [Assertion Card] from the deck and add it to your hand.",
+        "category": [
+            "Natural",
+            "Even"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
+    },
+    {
+        "_id": "000005",
+        "name": "Number Two",
+        "type": "value",
+        "desc": "",
+        "category": [
+            "Natural",
+            "Even"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

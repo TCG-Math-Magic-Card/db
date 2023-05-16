@@ -40,5 +40,31 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000004",
+        "name": "数字 零",
+        "type": "value",
+        "desc": "每个回合一次。当设置值时，或者进入到弃牌堆时，可以从牌组获取一张【断言卡】到手牌。",
+        "category": [
+            "自然数",
+            "偶数"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
+    },
+    {
+        "_id": "000005",
+        "name": "数字 二",
+        "type": "value",
+        "desc": "",
+        "category": [
+            "自然数",
+            "偶数"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

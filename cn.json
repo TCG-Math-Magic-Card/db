@@ -118,5 +118,31 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000010",
+        "name": "数字 七",
+        "type": "value-assertion",
+        "desc": "",
+        "category": [
+            "自然数",
+            "奇数"
+        ],
+        "author": "robzhou",
+        "vp": 2,
+        "dp": 1
+    },
+    {
+        "_id": "000011",
+        "name": "数字 八",
+        "type": "value-assertion",
+        "desc": "当使用此卡设置值或者弃置时，你可以选择一个【公共断言区】的断言，移动到自己或者对手的【私有断言区】内。",
+        "category": [
+            "自然数",
+            "偶数"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

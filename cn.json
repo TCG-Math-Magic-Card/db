@@ -144,5 +144,18 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000012",
+        "name": "数字 九",
+        "type": "value-assertion",
+        "desc": "当设置了此卡时，可以从卡组中那一张[公式]值为1的卡到手牌",
+        "category": [
+            "自然数",
+            "奇数"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

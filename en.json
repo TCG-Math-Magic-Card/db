@@ -140,6 +140,19 @@
         "desc": "When using this card to set a value or discard, you can select an Assertion from the [Public Assertion Area] and move it to your or your opponent's [Private Assertion Area].",
         "category": [
             "Natural",
+            "Even"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000012",
+        "name": "Nine",
+        "type": "value-assertion",
+        "desc": "When this card is set, you can retrieve the one card which [Formula]'s value is 1 from the deck and add it to your hand.",
+        "category": [
+            "Natural",
             "Odd"
         ],
         "author": "robzhou",

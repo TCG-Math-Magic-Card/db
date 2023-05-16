@@ -93,5 +93,31 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000008",
+        "name": "Number Five",
+        "type": "value-assertion",
+        "desc": "When there are a total of 5 cards on the field (between you and your opponent), you can use this card to set value One more time.",
+        "category": [
+            "Natural",
+            "Odd"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000009",
+        "name": "数字 六",
+        "type": "value-assertion",
+        "desc": "When you have 6 cards in your hand, you can discard this card and then discard one card from your opponent's hand.",
+        "category": [
+            "Natural",
+            "Even"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

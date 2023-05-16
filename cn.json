@@ -92,5 +92,31 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000008",
+        "name": "数字 五",
+        "type": "value-assertion",
+        "desc": "当场上存在的卡片数目（自己和对手总共）为5时，可以用此卡额外设置一次值。",
+        "category": [
+            "自然数",
+            "奇数"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000009",
+        "name": "数字 六",
+        "type": "value-assertion",
+        "desc": "当自己的手卡数为6时，可以弃置这张卡，之后弃置对手的一个手卡。",
+        "category": [
+            "自然数",
+            "偶数"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

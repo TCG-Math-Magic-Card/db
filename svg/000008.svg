@@ -1,0 +1,16 @@
+<svg style="vertical-align:-.186ex" xmlns="http://www.w3.org/2000/svg" width="5.028ex" height="1.717ex"
+    viewBox="0 -677 2222.4 759" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a"
+            d="M462 0q-18 3-129 3-116 0-134-3h-9v46h58q7 0 17 2t14 5 7 8q1 2 1 54v50H28v46l151 231q153 232 155 233 2 2 21 2h18l6-6V211h92v-46h-92V66q0-7 6-12 8-7 57-8h29V0h-9ZM293 211v334L74 212l109-1h110Z" />
+        <path id="b"
+            d="M56 237v13l14 20h299v150l1 150q10 13 19 13 13 0 20-15V270h298q15-8 15-20t-15-20H409V-68q-8-14-18-14h-4q-12 0-18 14v298H70q-14 7-14 20Z" />
+        <path id="c"
+            d="m213 578-13-5q-14-5-40-10t-58-7H83v46h19q47 2 87 15t56 24 28 22q2 3 12 3 9 0 17-6V361l1-300q7-7 12-9t24-4 62-2h26V0h-11q-21 3-159 3-136 0-157-3H88v46h64q16 0 25 1t16 3 8 2 6 5 6 4v517Z" />
+    </defs>
+    <g stroke="currentColor" fill="white" stroke-width="0">
+        <use data-c="34" xlink:href="#a" transform="scale(1 -1)" />
+        <use data-c="2B" xlink:href="#b" transform="scale(1 -1) translate(722.2)" />
+        <use data-c="31" xlink:href="#c" transform="scale(1 -1) translate(1722.4)" />
+    </g>
+</svg>

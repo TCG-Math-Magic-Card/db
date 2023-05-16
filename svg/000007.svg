@@ -1,0 +1,10 @@
+<svg style="vertical-align:0" xmlns="http://www.w3.org/2000/svg" width="1.131ex" height="1.532ex"
+    viewBox="0 -677 500 677" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a"
+            d="M462 0q-18 3-129 3-116 0-134-3h-9v46h58q7 0 17 2t14 5 7 8q1 2 1 54v50H28v46l151 231q153 232 155 233 2 2 21 2h18l6-6V211h92v-46h-92V66q0-7 6-12 8-7 57-8h29V0h-9ZM293 211v334L74 212l109-1h110Z" />
+    </defs>
+    <g stroke="currentColor" fill="white" stroke-width="0">
+        <use data-c="34" xlink:href="#a" transform="scale(1 -1)" />
+    </g>
+</svg>

@@ -67,5 +67,31 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000006",
+        "name": "Number Three",
+        "type": "value-assertion",
+        "desc": "",
+        "category": [
+            "Natural",
+            "Odd"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000007",
+        "name": "Number Four",
+        "type": "value-assertion",
+        "desc": "",
+        "category": [
+            "Natural",
+            "Even"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

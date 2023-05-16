@@ -66,5 +66,31 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000006",
+        "name": "数字 三",
+        "type": "value-assertion",
+        "desc": "",
+        "category": [
+            "自然数",
+            "奇数"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000007",
+        "name": "数字 四",
+        "type": "value-assertion",
+        "desc": "",
+        "category": [
+            "自然数",
+            "偶数"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

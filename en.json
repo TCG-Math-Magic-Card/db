@@ -284,5 +284,18 @@
         "author": "robzhou",
         "vp": 2,
         "dp": 1
+    },
+    {
+        "_id": "000023",
+        "name": "[Legend]Mathematical induction",
+        "type": "legend",
+        "desc": "Once per turn. When you place a value card in the Natural Number category, you can retrieve a [succeed] card of that value from the deck (e.g., placing a card with a value of 1 allows you to retrieve a card with a value of 2).",
+        "category": [
+            "Legend",
+            "Mathematical induction"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

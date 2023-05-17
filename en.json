@@ -245,5 +245,19 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000020",
+        "name": "It is an Odd number!",
+        "type": "assertion",
+        "desc": "When this card is placed in the Assertion Zone, you can discard one card in the [Odd] category and then draw one card from the deck.",
+        "category": [
+            "Assertion",
+            "Natural",
+            "Odd"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

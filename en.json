@@ -225,7 +225,19 @@
     {
         "_id": "000018",
         "name": "Is an integer",
-        "type": "operator",
+        "type": "assertion",
+        "desc": "",
+        "category": [
+            "Assertion"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000019",
+        "name": "Is a Rational Number",
+        "type": "assertion",
         "desc": "",
         "category": [
             "Assertion"

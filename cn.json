@@ -224,7 +224,19 @@
     {
         "_id": "000018",
         "name": "是整数",
-        "type": "operator",
+        "type": "assertion",
+        "desc": "",
+        "category": [
+            "断言"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
+    },
+    {
+        "_id": "000019",
+        "name": "是比例数",
+        "type": "assertion",
         "desc": "",
         "category": [
             "断言"

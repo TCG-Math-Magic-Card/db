@@ -208,5 +208,18 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000017",
+        "name": "Magic Division",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "Symmetry",
+            "Operator"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

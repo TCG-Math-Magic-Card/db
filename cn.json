@@ -207,5 +207,18 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000017",
+        "name": "魔力除法",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "对称",
+            "算子"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

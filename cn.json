@@ -271,5 +271,17 @@
         "author": "robzhou",
         "vp": "?",
         "dp": "?"
+    },
+    {
+        "_id": "000022",
+        "name": "三的倍数!",
+        "type": "assertion",
+        "desc": "这张卡放置在断言区后，最多选择场上的三个算子，交换他们的位置。",
+        "category": [
+            "断言"
+        ],
+        "author": "robzhou",
+        "vp": 2,
+        "dp": 1
     }
 ]

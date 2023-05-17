@@ -272,5 +272,17 @@
         "author": "robzhou",
         "vp": "?",
         "dp": "?"
+    },
+    {
+        "_id": "000022",
+        "name": "Multiples of three!",
+        "type": "assertion",
+        "desc": "Once this card is placed in the Assertion Area, you can choose up to three Operators Card on the field and swap their positions.",
+        "category": [
+            "Assertion"
+        ],
+        "author": "robzhou",
+        "vp": 2,
+        "dp": 1
     }
 ]

@@ -1,1 +1,18 @@
-<svg style="vertical-align:-.566ex" xmlns="http://www.w3.org/2000/svg" width="5.154ex" height="2.262ex" viewBox="0 -750 2278 1000" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="M118-250V750h137v-40h-97v-920h97v-40H118Z"/><path id="b" d="M226 668q-36 0-64-12t-38-24l-10-11q2 0 5-1t11-4 15-9 12-16 5-24q0-23-15-38t-38-15-38 14-16 38q0 59 45 95t99 43h11q9 0 14 1h4q53 0 92-13t58-36 29-44 9-45q0-64-55-105-94-67-114-159-5-24-5-62v-17q0-19-3-22t-17-4-17 3-3 17v31q2 71 18 122t35 74 37 46 23 46q2 9 2 37v13q0 17-2 28t-11 25-27 21-51 7ZM162 61q0 28 18 44t44 16q23-2 40-17t17-43q0-30-17-45T222 1q-25 0-42 15t-18 45Z"/><path id="c" d="M22 710v40h137V-250H22v40h97v920H22Z"/><path id="d" d="M56 237v13l14 20h299v150l1 150q10 13 19 13 13 0 20-15V270h298q15-8 15-20t-15-20H409V-68q-8-14-18-14h-4q-12 0-18 14v298H70q-14 7-14 20Z"/></defs><g stroke="currentColor" fill="currentColor" stroke-width="0"><use data-c="5B" xlink:href="#a" transform="scale(1 -1)"/><use data-c="3F" xlink:href="#b" transform="scale(1 -1) translate(278)"/><use data-c="5D" xlink:href="#c" transform="scale(1 -1) translate(750)"/><use data-c="2B" xlink:href="#d" transform="scale(1 -1) translate(1028)"/><use data-c="3F" xlink:href="#b" transform="scale(1 -1) translate(1806)"/></g></svg>
+<svg style="vertical-align:-.566ex" xmlns="http://www.w3.org/2000/svg" width="5.154ex" height="2.262ex"
+    viewBox="0 -750 2278 1000" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M118-250V750h137v-40h-97v-920h97v-40H118Z" />
+        <path id="b"
+            d="M226 668q-36 0-64-12t-38-24l-10-11q2 0 5-1t11-4 15-9 12-16 5-24q0-23-15-38t-38-15-38 14-16 38q0 59 45 95t99 43h11q9 0 14 1h4q53 0 92-13t58-36 29-44 9-45q0-64-55-105-94-67-114-159-5-24-5-62v-17q0-19-3-22t-17-4-17 3-3 17v31q2 71 18 122t35 74 37 46 23 46q2 9 2 37v13q0 17-2 28t-11 25-27 21-51 7ZM162 61q0 28 18 44t44 16q23-2 40-17t17-43q0-30-17-45T222 1q-25 0-42 15t-18 45Z" />
+        <path id="c" d="M22 710v40h137V-250H22v40h97v920H22Z" />
+        <path id="d"
+            d="M56 237v13l14 20h299v150l1 150q10 13 19 13 13 0 20-15V270h298q15-8 15-20t-15-20H409V-68q-8-14-18-14h-4q-12 0-18 14v298H70q-14 7-14 20Z" />
+    </defs>
+    <g stroke="currentColor" fill="white" stroke-width="0">
+        <use data-c="5B" xlink:href="#a" transform="scale(1 -1)" />
+        <use data-c="3F" xlink:href="#b" transform="scale(1 -1) translate(278)" />
+        <use data-c="5D" xlink:href="#c" transform="scale(1 -1) translate(750)" />
+        <use data-c="2B" xlink:href="#d" transform="scale(1 -1) translate(1028)" />
+        <use data-c="3F" xlink:href="#b" transform="scale(1 -1) translate(1806)" />
+    </g>
+</svg>

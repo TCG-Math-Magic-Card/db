@@ -158,5 +158,17 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000013",
+        "name": "Subtraction",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "Operator"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

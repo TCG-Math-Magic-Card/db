@@ -157,5 +157,17 @@
         "author": "robzhou",
         "vp": 1,
         "dp": 1
+    },
+    {
+        "_id": "000013",
+        "name": "减法",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "算子"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

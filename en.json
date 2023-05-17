@@ -221,5 +221,17 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000018",
+        "name": "Is an integer",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "Assertion"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

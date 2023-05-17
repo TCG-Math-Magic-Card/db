@@ -220,5 +220,17 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000018",
+        "name": "是整数",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "断言"
+        ],
+        "author": "robzhou",
+        "vp": 1,
+        "dp": 1
     }
 ]

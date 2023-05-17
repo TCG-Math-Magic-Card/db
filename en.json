@@ -170,5 +170,18 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000014",
+        "name": "multiplication",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "Symmetry",
+            "Operator"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

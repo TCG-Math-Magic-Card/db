@@ -194,5 +194,18 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000016",
+        "name": "取整加",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "对称",
+            "算子"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]

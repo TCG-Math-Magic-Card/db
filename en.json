@@ -195,5 +195,18 @@
         "author": "robzhou",
         "vp": 0,
         "dp": 0
+    },
+    {
+        "_id": "000016",
+        "name": "Round & Add",
+        "type": "operator",
+        "desc": "",
+        "category": [
+            "Symmetry",
+            "Operator"
+        ],
+        "author": "robzhou",
+        "vp": 0,
+        "dp": 0
     }
 ]
